@@ -1,0 +1,1 @@
+# verificador-de-pagamentos-automatizado
